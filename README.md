@@ -7,8 +7,8 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 Create a deep neural network to recognize malaria-infected cells in minuscule blood pictures with accuracy. It is anticipated that this automated system will perform well in diagnosis, enhance treatment choices, and could be used in environments with limited resources.
 
 ## Neural Network Model
+![image](https://github.com/SudharshnaLakshmi/malaria-cell-recognition/assets/93427267/3fac829c-d931-44c5-8a93-ab419e83db91)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
